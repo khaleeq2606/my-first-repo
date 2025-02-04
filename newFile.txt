@@ -1,2 +1,3 @@
 This is the first line of newFile.txt
 Adding second line to the file in main branch
+Adding second line to the file in sub branch
