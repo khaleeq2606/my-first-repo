@@ -1,1 +1,1 @@
-First line of sub branch new file
+First line of sub branch new file in sub branch
